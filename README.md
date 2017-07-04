@@ -28,7 +28,7 @@ curl -sS https://getcomposer.org/installer | php
 Next, run the Composer command to install the latest stable version:
 
 ```bash
-composer.phar require google/auth
+php composer.phar require google/auth
 ```
 
 ## Application Default Credentials
